@@ -1,5 +1,4 @@
 #include <stdio.h>
-//sneh
 
 int main()
 {
